@@ -4,14 +4,15 @@
 AI-powered app to predict food spoilage, minimize waste, and promote sustainable consumption 🌍♻
 License | Python | TensorFlow | Flask | Kaggle | Streamlit
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------📌 Quick Summary
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📌 Quick Summary
 
 This project develops an AI/ML-powered system that helps households, grocery stores, and restaurants reduce food waste by predicting spoilage times and suggesting optimal usage or recipe ideas.
 By analyzing purchase dates, storage conditions, and food type, the system sends smart alerts before food spoils — helping users save money, cut waste, and protect the planet.
 Sustainability Focus:
 AI for responsible consumption → Less food waste → Reduced methane emissions → Climate action 🌱
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎯 Problem Statement
 The Challenge
 Food waste is a major sustainability concern:
