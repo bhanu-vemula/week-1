@@ -1,0 +1,46 @@
+Excellent question, Bhanu 👍
+
+Let’s break it into two parts —
+
+---
+
+### 🧩 1. About the **Problem Statement**
+
+Yes — you can (and should) write **a few more lines** for the problem statement in a design-phase summary.
+It gives better context about *why* your project is needed and *what exactly* it plans to solve.
+Here’s an improved and clearer version with more depth 👇
+
+---
+
+## 🗓️ Week 1 – Design Phase Summary
+
+### 🧠 Problem Statement
+
+Food waste is one of the most pressing global sustainability problems, contributing to resource depletion, climate change, and economic loss. Every year, millions of tons of edible food are discarded due to factors such as over-purchasing, inefficient inventory management, lack of consumer awareness, and poor storage conditions.
+
+Despite efforts to control this, most households and restaurants still struggle to track and manage food consumption effectively. There is a need for a **data-driven system** that can monitor food usage, forecast potential wastage, and provide personalized suggestions to reduce it.
+
+To address this issue, the project focuses on developing an **AI-Based Smart Food Waste Reduction System** that utilizes machine learning to analyze consumption data, identify waste patterns, and recommend strategies for efficient food management and sustainability.
+
+---
+
+### 📊 Dataset Information
+
+**Dataset:** Global Food Wastage Dataset (2018–2024)
+**Source:** [Kaggle](https://www.kaggle.com/)
+**Description:** Contains country-wise data on food waste by category and quantity from 2018–2024.
+**Purpose:** To train AI models that predict future food waste trends and assist in building intelligent waste reduction systems.
+
+---
+
+### 🧩 Tools & Technologies
+
+Python | Pandas | NumPy | Matplotlib | Scikit-learn | GitHub
+
+---
+
+### 🎯 Week 1 Tasks
+
+* Defined and refined the problem statement
+* Collected and documented the dataset
+* Outlined the data processing and modeling plan
