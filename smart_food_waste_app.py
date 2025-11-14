@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
-
-
-# In[10]:
-
-
 # smart_food_waste_app.py
 
 import pandas as pd
